@@ -1,0 +1,929 @@
+{
+ "_type": "album",
+ "api_path": "/albums/534125",
+ "cover_art_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+ "cover_art_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+ "full_title": "i,i by Bon Iver",
+ "id": 534125,
+ "name": "i,i",
+ "name_with_artist": "i,i (artist: Bon Iver)",
+ "release_date_components": {
+  "year": 2019,
+  "month": 8,
+  "day": 9
+ },
+ "release_date_for_display": "August 9, 2019",
+ "url": "https://genius.com/albums/Bon-iver/I-i",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/589",
+  "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+  "id": 589,
+  "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bon Iver",
+  "slug": "Bon-iver",
+  "url": "https://genius.com/artists/Bon-iver"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/4602634",
+    "artist_names": "Bon Iver",
+    "full_title": "Yi by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602634,
+    "instrumental": false,
+    "lyrics_owner_id": 8117646,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1566293325,
+    "path": "/Bon-iver-yi-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bon-iver-yi-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 21001
+    },
+    "title": "Yi",
+    "title_with_featured": "Yi",
+    "updated_by_human_at": 1568682253,
+    "url": "https://genius.com/Bon-iver-yi-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "20 ContributorsYi Lyrics[Intro]\nYeah\n\n[Interlude]\nYou recording Trevor?\nYesYou might also likeEmbed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/4602635",
+    "artist_names": "Bon Iver",
+    "full_title": "\u200biMi by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602635,
+    "instrumental": false,
+    "lyrics_owner_id": 8459032,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1675624629,
+    "path": "/Bon-iver-imi-lyrics",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Bon-iver-imi-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7ce233b6d5db0292e61f1d46161e44bd.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7ce233b6d5db0292e61f1d46161e44bd.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 92732
+    },
+    "title": "\u200biMi",
+    "title_with_featured": "\u200biMi",
+    "updated_by_human_at": 1675624630,
+    "url": "https://genius.com/Bon-iver-imi-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "38 Contributors\u200biMi Lyrics[Intro: Mike Noyce]\nAll my life\nIni was\nOoh, mine was a lover of a wrong kind\nKeeping what you telling me\nI know mine\n\n[Verse 1: Justin Vernon, Camilla Staveley-Taylor & Velvet Negroni]\nLiving in a lonesome way\nHad me looking other ways\n'Cause I am, I am, I am lost here, again\nBut on a bright fall morning, I'm with it\nI stood a little while within it\nMan, you have to know\nKnow the way\n\n[Chorus: Justin Vernon & Camilla Staveley-Taylor]\nIt goes, it goes, it goes\nI am, I am, I am, I am\nIt goes, It goes\nI am, I am, I am, I am\n\n[Verse 2: Justin Vernon & Velvet Negroni]\nIf forgiveness is a chore\nWhat you waiting for?\nWe been here before\nAnd I can't ignore it anymore\nYou know the way it goes\nHow much longer then? (I'll show you in)\n(Now I'll tell you why)\nYou might also like[Chorus: Justin Vernon & Camilla Staveley-Taylor]\nI am, I am, I am, I am\nI am, I am, I am, I am\n\n[Post-Chorus: Velvet Negroni]\nAin't no say what I do in\nEvery day say they don't like it, I say\n\"Hey, don't like it\", I say\n\"Hey, don't like it\", I say\n\"Hey, don't like it\", I say\n\"Hey, don't like it\", I say\n\n[Interlude: Justin Vernon & Camilla Staveley-Taylor]\nIf that ain't just the truth\nI am, I am, I am, I am\nI like you, I like you\nAnd that ain't nothing new\n\n[Outro: Velvet Negroni, James Blake & Camilla Staveley-Taylor]\nAnd if it don't happen like that\nWell, then it don't happen at all\nKeepin' what you tell me\n(Said Ini)\nNow I won't lie9Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/4602636",
+    "artist_names": "Bon Iver",
+    "full_title": "We by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602636,
+    "instrumental": false,
+    "lyrics_owner_id": 1173420,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565872879,
+    "path": "/Bon-iver-we-lyrics",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Bon-iver-we-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a7c7332fdd185109ab0d1def843b8731.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a7c7332fdd185109ab0d1def843b8731.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 37943
+    },
+    "title": "We",
+    "title_with_featured": "We",
+    "updated_by_human_at": 1649253086,
+    "url": "https://genius.com/Bon-iver-we-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "20 ContributorsWe LyricsFor only takers, stand and take in where you are\nTurn around and face it, you're adjacent to the scar\n\"I want mine here though\"\nWe heard that story before (Woo, hahaha)\n\nWhat you think we're taming with the towers and the oar?\nYou keep evading boy, you putting me flat on the floor\nIt's okay, you were young when you were gave it\nBut you stayed there\nAnd you\u2019d expect it when we photograph our scars\nSome lonely fable that we took in then right from the start\n\nI want it back\nI want it back\nWon\u2019t you tell me how to get it back?\nI want it back\nI want it back\nWhy won't you tell me how to get it back?\nMy, my, my, my\n\nI'm coming over for another story told\nI'm saying homie that it's not what you been sold\nIt's hardly what you'd know\nThe ordinary something neither of us holds\nNo folding gold for protecting from the lords\nWho's that really we leave out in the cold?\nBut they're depending, so you just keep giving pause\n\"I must defend it\", oh, the tariffs hit you hard\nJust keep adding up boy, you'll be below regardYou might also like2Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4691464",
+    "artist_names": "Bon Iver",
+    "full_title": "Holyfields, by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4691464,
+    "instrumental": false,
+    "lyrics_owner_id": 1173420,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1663882250,
+    "path": "/Bon-iver-holyfields-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bon-iver-holyfields-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f0507fb178ea47a46abffcd65340bc87.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f0507fb178ea47a46abffcd65340bc87.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 31990
+    },
+    "title": "Holyfields,",
+    "title_with_featured": "Holyfields,",
+    "updated_by_human_at": 1663882250,
+    "url": "https://genius.com/Bon-iver-holyfields-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "25 ContributorsHolyfields, Lyrics[Verse 1]\nDanger been stepping in\nI'm happy as I ever been\nCouldn't tell ya what the cadence is\nIt's folded in the evidences\n\n[Verse 2]\nSo you wanna leave a mark?\nYou're honing in on Meadow Park?\nI heard you guys are very safe\nCaught up with the featherweights\n\n[Chorus]\nThe dawn is rising\nThe land ain't rising\nNo, no, no\nFlash hope\nPass the throw\n\n[Verse 3]\nComing in very late\nJust above our pay grades\nYou ask me not to pull alarms\nWe have to act our ages\n\n[Chorus]\nThe dawn is rising\nBut the land ain't rising\nNo, no, no\nCatch up\nYou wanna go the fast way?\nYou might also like[Bridge]\nBonded weights\nDon't favor them\nIf it's all that you don't do\nIt's lacerate\nBetter let them pass away\n\n[Outro]\nStay, go?\nBetter that you find a new way\nBefore my eyes\nCouldn't learn it any other way\nBy the wayEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/4601887",
+    "artist_names": "Bon Iver",
+    "full_title": "Hey, Ma by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4601887,
+    "instrumental": false,
+    "lyrics_owner_id": 3264970,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1694908045,
+    "path": "/Bon-iver-hey-ma-lyrics",
+    "pyongs_count": 12,
+    "relationships_index_url": "https://genius.com/Bon-iver-hey-ma-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 6,
+     "day": 3
+    },
+    "release_date_for_display": "June 3, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jun. 3, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2158715386c7f57e42e1fe7f1cb83f54.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/2158715386c7f57e42e1fe7f1cb83f54.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 217263
+    },
+    "title": "Hey, Ma",
+    "title_with_featured": "Hey, Ma",
+    "updated_by_human_at": 1694908045,
+    "url": "https://genius.com/Bon-iver-hey-ma-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "57 ContributorsHey, Ma Lyrics[Verse 1]\nI waited outside\nI took it remote\nI wanted a bath\n\"Tell the story or he goes\"\n\"Tell the story or he goes\"\n\n[Chorus]\nFull time, you talk your money up\nWhile it's living in a coal mine\nTall time to call your Ma\nHey Ma, hey Ma\nTall vote, you know you mope it up\nWell, you wanted it your whole life\nYou're back and forth with light\n\n[Verse 2]\nI waited outside\nI was tokin' on dope\nI hoped it all wunt go in a minute\nWith the past that you know\nI wanted all that mind sugar\nI want it all mine\nI had a heavy mind, sugar\nI took it, it was right\nYou might also like[Chorus]\nFull time, you talk your money up\nWhile it's living in a coal mine\nTall time to call your Ma\nHey Ma, hey Ma\nTall vote, you know you mope it up\nWell, you wanted it your whole life\nYou're back and forth with light\n\n[Interlude]\nYou're back and forth\nYou're back and forth\nYou go back and forth\nAnd then you're back and forth\nAnd back and forth\n\n[Verse 3]\nI waited outside\nThen you took me in the room\nAnd you offered up the truth\nMy eyes crawling up the window to the wall\nFrom dusk 'til dawn\nLet me talk to 'em\nLet me talk to 'em all\n\n[Chorus]\nFull time, you talk your money up\nWhile it's living in a coal mine\nTall time to call your Ma\nHey Ma, hey Ma\nTall vote, you know you mope it up\nWell, you wanted it your whole life\nYou're back and forth with light12Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/4601903",
+    "artist_names": "Bon Iver",
+    "full_title": "U (Man Like) by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4601903,
+    "instrumental": false,
+    "lyrics_owner_id": 3264970,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1641127802,
+    "path": "/Bon-iver-u-man-like-lyrics",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Bon-iver-u-man-like-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 6,
+     "day": 3
+    },
+    "release_date_for_display": "June 3, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jun. 3, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/24bf7d157d6d50bf90d8a9b4b8bb8d20.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/24bf7d157d6d50bf90d8a9b4b8bb8d20.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 68243
+    },
+    "title": "U (Man Like)",
+    "title_with_featured": "U (Man Like)",
+    "updated_by_human_at": 1647794883,
+    "url": "https://genius.com/Bon-iver-u-man-like-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "26 ContributorsU (Man Like) Lyrics[Verse 1: Justin Vernon]\nMmm, mmm\nI will see you off now\nDown the back of the ridge\nThere's just something that I got to show you\nThere is domer and there's rot\nAnd the common case\nIt ain't nothing what you say is true\n\n[Chorus: Justin Vernon, Jenn Wasner, & Elsa Jensen]\nWith your long arms, try\nAnd just give some time\nPresently, it does include my dues\nAin't your standard premonitions\nAll this phallic repetition\nBoy, you tell yourself a tale or two\n\n[Post-Chorus: Jenn Wasner, Moses Sumney, & Elsa Jensen]\nMan like you\nMan, improve\n\n[Verse 2: Bruce Hornsby, (Moses Sumney), & Brooklyn Youth Chorus]\nWell, I know that we set off for a common place\n(And the lines have run too deep)\nHow much caring is there of some American love\nWhen there's lovers sleeping in your streets?\nYou might also like[Chorus: Justin Vernon, Jenn Wasner, & Elsa Jensen]\nSo Cerberus Ride\nBring those dead alive\nLike Pirate Jenny on the Black Freighter\nIt'll be a long day of fixing\nMake something else your mission\nBoy, why this shit's so hard to cue?\n\n[Post-Chorus: Moses Sumney]\nMan like you\nHow you do?\n\n[Outro: Justin Vernon, Bruce Hornsby, Jenn Wasner, Elsa Jensen, & Moses Sumney]\nNa-na-na-na-na-na\nNa-na-na\nNa-na-na-na-na-na-na-na-na\nHey2Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/3349827",
+    "artist_names": "Bon Iver",
+    "full_title": "Naeem by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 3349827,
+    "instrumental": false,
+    "lyrics_owner_id": 3264970,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1703888151,
+    "path": "/Bon-iver-naeem-lyrics",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Bon-iver-naeem-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b4e712989f6ac44b5e1703a56f6dfbc8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b4e712989f6ac44b5e1703a56f6dfbc8.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 78837
+    },
+    "title": "Naeem",
+    "title_with_featured": "Naeem",
+    "updated_by_human_at": 1703880640,
+    "url": "https://genius.com/Bon-iver-naeem-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "36 ContributorsNaeem Lyrics[Intro]\nMore love\nMore love\nMore love\n\n[Verse 1]\nAll along 'em I can hear me\nI go for the caste\nI fall off a bass boat\nAnd the concrete's very slow\nAnd the concrete's very slow\nAll along the sideline's bigger\nI'm over the dash\nI'm having a bad, bad toke\nBut the berries still to come\nAll along them I can hear ya\n\n[Chorus]\nI can hear, I can hear\nI can hear, I can hear crying (I can hear)\nI can hear cry (Crying)\nI can hear, I can hear (Crying)\nI can hear, I can hear crying\n(I can hear, I can hear)\n\n[Verse 2]\nAll along me I can hear you\nI'd occupy that\nCan't sit back long while you're forming that\nOh my mind our kids got bigger\nBut I'm climbing down the bastion now\nYou take me out to pasture now\nWell, I won't be angry long\nWell, I can't be angry long\nWe burnt up in my bed\nStanding on the mattress, Laul\nLaul, can't we just patch this up?\nAnd I cannot seem to carry it all\nAll along we I can hear me\nYou might also like[Chorus]\nI can hear, I can hear\nI can hear, I can hear crying (I can hear)\nI can hear cry (Crying)\nI can hear, I can hear\nI can hear, I can hear crying\nI can hear crying\nI can hear, I can hear\nI can hear, I can hear crying\nI can hear cry\nI can hear, I can hear\nI can hear, I can hear crying\n\n[Verse 3]\nAll around me I can hear 'em\nSo what is gonna happen now?\nIf you don't look away\nWhat's there to pontificate on now?\nThere's someone in my head\nTell them I'll be passing on\nTell them we're young mastodons\nAnd it can't be that it's all\nAnd it can't be that it's all\nI'm telling you that I do feel ya\nIt's suddenly paths, mama\nIt ain't about class, mama\nAnd it won't be very long\nOh, it won't be very long\n[Bridge]\nHey, hey\nHey, hey\n\n[Outro]\n(I can hear)\nI can hear (Crying)\nI can hear, I can hear (Crying, crying)\nI can hear\n(I can hear crying)\n(Crying, crying)8Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/4602638",
+    "artist_names": "Bon Iver",
+    "full_title": "Jelmore by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602638,
+    "instrumental": false,
+    "lyrics_owner_id": 1630452,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1633502742,
+    "path": "/Bon-iver-jelmore-lyrics",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Bon-iver-jelmore-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 11
+    },
+    "release_date_for_display": "July 11, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 11, 2019",
+    "song_art_image_thumbnail_url": "https://i.postimg.cc/szmWsfXr/jelmore.png",
+    "song_art_image_url": "https://i.postimg.cc/szmWsfXr/jelmore.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 35380
+    },
+    "title": "Jelmore",
+    "title_with_featured": "Jelmore",
+    "updated_by_human_at": 1633502742,
+    "url": "https://genius.com/Bon-iver-jelmore-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "22 ContributorsJelmore Lyrics[Verse 1]\nWell, angel, morning Sivanna\nWell, ain't been gone too far\nBut heading out towards Ponoma\nWhere you won't be alone\n\n[Verse 2]\nWhere there's thrift store manager in a poke camadee\nAnd a gas mask on his arm\nAnd one by one by one\nWe'll all be gone\n\n[Chorus]\nWe'll all be gone by the fall\nWe'll all be gone by the falling light\n\n[Verse 3]\nBrick layer\nWith a hat down on his feet\nI'll say no more\nI won't lead no Calvary\n\n[Bridge]\nHow long\nWill you disregard the heat?\nHalf beat\nIt's no misnomer though\nYou might also like[Outro]\nI've the feeling that I better go\nSo\nI slide right out the door, oh4Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/4602639",
+    "artist_names": "Bon Iver",
+    "full_title": "Faith by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602639,
+    "instrumental": false,
+    "lyrics_owner_id": 1630452,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1705775184,
+    "path": "/Bon-iver-faith-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Bon-iver-faith-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 7,
+     "day": 11
+    },
+    "release_date_for_display": "July 11, 2019",
+    "release_date_with_abbreviated_month_for_display": "Jul. 11, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f7d1fdc32dccf25f8aeffcf757c21475.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/f7d1fdc32dccf25f8aeffcf757c21475.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 75317
+    },
+    "title": "Faith",
+    "title_with_featured": "Faith",
+    "updated_by_human_at": 1705775184,
+    "url": "https://genius.com/Bon-iver-faith-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "30 ContributorsFaith Lyrics[Verse 1]\nShattered in history\nShattered in paint\nOh, and the lengths that I'd\nStay up late\nBut brought to my space\nThe wonderful things I\u2019ve learned to waste\n\n[Verse 2]\nI should've known\nThat I shouldn't hide\nTo compromise and to covet\nAll what\u2019s inside\nThere is no design\nYou'll have to decide\nIf you'll come to know, I'm the faithful kind\n\n[Verse 3]\nTime and again\n(Got all that I need)\nIt's time to be brave\nContent to the phrases\nThat at dawn, we ain't mazes\nJust some kind of pages\n\n[Verse 4]\nThis for my sister\nThat for my maple\nIt's not going the road I'd known as a child of God\nNor to become stable\n(So what if I lose? I\u2019m satisfied)\nYou might also like[Bridge]\nAm I dependent in what I\u2019m defending?\nAnd do we get to hold what faith provides?\nFold your hands into mine\nI did my believing\nSeeing every time\n\n[Outro]\nI know it's lonely in the dark\nAnd this year\u2019s a visitor\nAnd we have to know that faith declines\nI'm not all out of mine3Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4602637",
+    "artist_names": "Bon Iver",
+    "full_title": "Marion by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602637,
+    "instrumental": false,
+    "lyrics_owner_id": 4855832,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1636628827,
+    "path": "/Bon-iver-marion-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bon-iver-marion-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a7b07eb0fbb27ed62e00029fb99f064d.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a7b07eb0fbb27ed62e00029fb99f064d.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 31214
+    },
+    "title": "Marion",
+    "title_with_featured": "Marion",
+    "updated_by_human_at": 1588296823,
+    "url": "https://genius.com/Bon-iver-marion-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "18 ContributorsMarion Lyrics[Refrain]\nWell, I thought that this was half a love\nWell, I thought that this was half a love, love\nFollow to the rising sea\nWell, I thought that this was half a love\n\n[Refrain]\nWell, I thought that this was half a love\nWell, I thought that this was half a love\nFollow to the rising sea\nWell, I thought that this was half a love\n\n[Outro]\nWhoo\nWhen I'm falling to the rightYou might also likeEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/4602640",
+    "artist_names": "Bon Iver",
+    "full_title": "Salem by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602640,
+    "instrumental": false,
+    "lyrics_owner_id": 1173420,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1629271644,
+    "path": "/Bon-iver-salem-lyrics",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Bon-iver-salem-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b0246d9fafd7ec8a69e38168f5847f52.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b0246d9fafd7ec8a69e38168f5847f52.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 36121
+    },
+    "title": "Salem",
+    "title_with_featured": "Salem",
+    "updated_by_human_at": 1629271644,
+    "url": "https://genius.com/Bon-iver-salem-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "25 ContributorsSalem Lyrics[Verse 1]\nSalem burns the leaves\nThen she\nReturns to cure and see\nHeavy fate\nAfter years of waiting\n\n[Pre-Chorus]\n'Cause abnormalities\nSurely\nAre everywhere you see\nSo what I think we need\nIs elasticity, empowerment and ease\n\n[Chorus]\nSo I won't lead no lie\nWith our hearts the only matter why\nHow long it's lasted\nI've not received reciprocity\n\n[Verse 2]\nTo speak supportively\nBig guy\nThere's no automatic peace\nBut I bet you'd keep\nAll these in-betweens that bar my youth\nYou might also like[Pre-Chorus]\nThere's no anorberic dream\nFar as I know\nI tried too hard to see\nWhat I thought it\u2019d be\nAsking constantly\nHow's it gonna be?\n\n[Chorus]\nSo I'm gonna weep a while\nYou don't even know how hard\nI learned a lesson\nDon't ask me, I've\nTorn the banner from the line4Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/4691466",
+    "artist_names": "Bon Iver",
+    "full_title": "Sh'Diah by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4691466,
+    "instrumental": false,
+    "lyrics_owner_id": 1173420,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1665406074,
+    "path": "/Bon-iver-shdiah-lyrics",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Bon-iver-shdiah-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/85e54fd881aa199124b9bcee04f11f66.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/85e54fd881aa199124b9bcee04f11f66.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 31654
+    },
+    "title": "Sh\u2019Diah",
+    "title_with_featured": "Sh'Diah",
+    "updated_by_human_at": 1665406074,
+    "url": "https://genius.com/Bon-iver-shdiah-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "22 ContributorsSh\u2019Diah LyricsWell, you find the time\nDon't you\nFor the Lord?\nBut can you find the time\nOh, can't pass it around?\nFever last too long\nFever's rashing on\nThere's no fountain in silver\nHow art?\nHow art?\n\nHow often ya gonna see now\nTruly what ya cease to be\nWill you adjust your scenery?\nWell, you find the time don\u2019t you\nFor the Lord?\nKeep it rational\nKeep it rational\nThere's no fountainYou might also like4Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/4602641",
+    "artist_names": "Bon Iver",
+    "full_title": "RABi by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b802530e1cdd09e12c1d93325e7449f7.1000x1000x1.png",
+    "id": 4602641,
+    "instrumental": false,
+    "lyrics_owner_id": 1173420,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1650060976,
+    "path": "/Bon-iver-rabi-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Bon-iver-rabi-sample",
+    "release_date_components": {
+     "year": 2019,
+     "month": 8,
+     "day": 8
+    },
+    "release_date_for_display": "August 8, 2019",
+    "release_date_with_abbreviated_month_for_display": "Aug. 8, 2019",
+    "song_art_image_thumbnail_url": "https://images.genius.com/32806045ff57f915df025ef3b26f2ddd.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/32806045ff57f915df025ef3b26f2ddd.1000x1000x1.png",
+    "stats": {
+     "unreviewed_annotations": 7,
+     "hot": false,
+     "pageviews": 47974
+    },
+    "title": "RABi",
+    "title_with_featured": "RABi",
+    "updated_by_human_at": 1650051767,
+    "url": "https://genius.com/Bon-iver-rabi-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "43 ContributorsRABi Lyrics[Intro]\nIf you wait, it won't be undone\n\n[Verse 1]\nWell, it's all just scared of dying\nBut isn't this a beach?\nAnd if I know one thing at all\nIs I cannot just be a peach\nOh, you come in all woke now\nSo, please enjoy the feast\nWe are weightless like a wayless beast\nSo what is it we don't teach?\n\n[Pre-Chorus]\nWhen we were children we were hell-bent\nOr oblivious at least\nBut now it comes to mind\nWe are terrified\nSo we run and hide\nFor a verified little peace\n\n[Chorus 1]\nSo what of this release?\nSun light feels good now, don't it?\nAnd I don't have a leaving plan\nBut something's gotta ease your mind\nBut it's all fine, or it's all crime anyway\nYou might also like[Verse 2]\nThere were six of us sitting creek side\nSifting fistfuls through the green\nEvery which way could be seen\nWas the sand and time\nNot a pantomime\nMore like anodyne\nWas a friend of mine\nYou'da known, you'da known\n\n[Pre-Chorus]\nI could prophet\nI could rob I, however\nEverywhere isn\u2019t everywhere\nThis is not a veil\nOr a fairy tale in the least\n\n[Chorus 2]\nSo what of this release?\nSome life feels good now, don't it?\n(I think I need it)\nDon't have to have a leaving plan\n(Have to let it)\nNothing's gonna ease your mind\nWell, it's all fine and we're all fine anyway\n[Outro]\nBut if you wait, it won't be undone1Embed"
+   }
+  }
+ ]
+}

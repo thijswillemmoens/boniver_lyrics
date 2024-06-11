@@ -1,0 +1,308 @@
+{
+ "_type": "album",
+ "api_path": "/albums/24274",
+ "cover_art_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+ "full_title": "Blood Bank EP by Bon Iver",
+ "id": 24274,
+ "name": "Blood Bank EP",
+ "name_with_artist": "Blood Bank EP (artist: Bon Iver)",
+ "release_date_components": {
+  "year": 2009,
+  "month": 1,
+  "day": 20
+ },
+ "release_date_for_display": "January 20, 2009",
+ "url": "https://genius.com/albums/Bon-iver/Blood-bank-ep",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/589",
+  "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+  "id": 589,
+  "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bon Iver",
+  "slug": "Bon-iver",
+  "url": "https://genius.com/artists/Bon-iver"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/54124",
+    "artist_names": "Bon Iver",
+    "full_title": "Blood Bank by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "id": 54124,
+    "instrumental": false,
+    "lyrics_owner_id": 7,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1708298973,
+    "path": "/Bon-iver-blood-bank-lyrics",
+    "pyongs_count": 30,
+    "relationships_index_url": "https://genius.com/Bon-iver-blood-bank-sample",
+    "release_date_components": {
+     "year": 2009,
+     "month": 1,
+     "day": 20
+    },
+    "release_date_for_display": "January 20, 2009",
+    "release_date_with_abbreviated_month_for_display": "Jan. 20, 2009",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false,
+     "pageviews": 173407
+    },
+    "title": "Blood Bank",
+    "title_with_featured": "Blood Bank",
+    "updated_by_human_at": 1708298974,
+    "url": "https://genius.com/Bon-iver-blood-bank-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "35 ContributorsBlood Bank Lyrics[Verse 1]\nWell, I met you at the blood bank\nWe were looking at the bags\nWondering if any of the colors\nMatched any of the names we knew on the tags\nYou said \"See, look it, that's yours\nStacked on top with your brother's\nSee how they resemble one another's\nEven in their plastic little covers?\"\n\n[Chorus]\nAnd I said I know it well\nThat secret that you know\nThat you don't know how to tell\nIt fucks with your honor\nAnd it teases your head\nBut you know that it's good, girl\n'Cause it's running you with red\n\n[Verse 2]\nThen the snow started falling\nWe were stuck out in your car\nYou were rubbing both my hands\nChewing on a candy bar\nYou said \"Ain't this just like the present\nTo be showing up like this?\"\nAs the moon waned to crescent\nWe started to kiss\nYou might also like[Chorus]\nAnd I said I know it well\nThat secret that we know\nThat we don't know how to tell\nI'm in love with your honor\nI'm in love with your cheeks\nWhat's that noise up the stairs, babe?\nIs that Christmas morning creaks?\n\n[Outro]\nAnd I know it well\nI know it well\nAnd I know it well\nI know it well\nAnd I know it well\nI know it well\nAnd I know it well\nI know it well30Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/133731",
+    "artist_names": "Bon Iver",
+    "full_title": "Beach Baby by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "id": 133731,
+    "instrumental": false,
+    "lyrics_owner_id": 164825,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1547963485,
+    "path": "/Bon-iver-beach-baby-lyrics",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/Bon-iver-beach-baby-sample",
+    "release_date_components": {
+     "year": 2009,
+     "month": 1,
+     "day": 20
+    },
+    "release_date_for_display": "January 20, 2009",
+    "release_date_with_abbreviated_month_for_display": "Jan. 20, 2009",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 155369
+    },
+    "title": "Beach Baby",
+    "title_with_featured": "Beach Baby",
+    "updated_by_human_at": 1593360464,
+    "url": "https://genius.com/Bon-iver-beach-baby-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "26 ContributorsBeach Baby Lyrics[Verse]\nWhen you're out, tell your lucky one\nTo know that you'll leave\nDon't you lock when you're fleeing\nI'd like not to hear keys\nOnly hold till your coffee warms\nBut don't hurry and speed\nOnce a time, put a tongue\nIn your ear on the beach\nAnd you clutched clicking heels\n[Instrumental Outro]You might also like19Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/215120",
+    "artist_names": "Bon Iver",
+    "full_title": "Babys by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "id": 215120,
+    "instrumental": false,
+    "lyrics_owner_id": 280927,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1626968804,
+    "path": "/Bon-iver-babys-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bon-iver-babys-sample",
+    "release_date_components": {
+     "year": 2009,
+     "month": 1,
+     "day": 20
+    },
+    "release_date_for_display": "January 20, 2009",
+    "release_date_with_abbreviated_month_for_display": "Jan. 20, 2009",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 12079
+    },
+    "title": "Babys",
+    "title_with_featured": "Babys",
+    "updated_by_human_at": 1626968804,
+    "url": "https://genius.com/Bon-iver-babys-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "16 ContributorsBabys Lyrics[Chorus]\nSummer comes\nTo multiply\nTo multiply!\nSummer comes\nTo multiply\nTo multiply!\n\n[Verse]\nAnd I\nI'm the Carnival of Peace\nI'll probably start a fleet\nWith no apologies\nAnd the Carnival of Scenes\nIt grows more and more appealing\nBut my woman and I\nMy woman and I know what we're for\n\n[Chorus]\nSummer comes\nTo multiply\nTo multiply!\nSummer comes\nTo multiply\nTo multiply!You might also likeEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/98461",
+    "artist_names": "Bon Iver",
+    "full_title": "Woods by\u00a0Bon\u00a0Iver",
+    "header_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "id": 98461,
+    "instrumental": false,
+    "lyrics_owner_id": 116340,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1648563936,
+    "path": "/Bon-iver-woods-lyrics",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Bon-iver-woods-sample",
+    "release_date_components": {
+     "year": 2009,
+     "month": 1,
+     "day": 19
+    },
+    "release_date_for_display": "January 19, 2009",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2009",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f480ff12930f006fe48fb600b62822bd.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 83756
+    },
+    "title": "Woods",
+    "title_with_featured": "Woods",
+    "updated_by_human_at": 1649992026,
+    "url": "https://genius.com/Bon-iver-woods-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/589",
+     "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+     "id": 589,
+     "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+     "index_character": "b",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bon Iver",
+     "slug": "Bon-iver",
+     "url": "https://genius.com/artists/Bon-iver"
+    },
+    "primary_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/589",
+      "header_image_url": "https://images.genius.com/68ae4abb1941980b728eea32c64e11ed.975x180x1.png",
+      "id": 589,
+      "image_url": "https://images.genius.com/f2314f39e56a73d1fb5a716bbe154556.1000x1000x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bon Iver",
+      "slug": "Bon-iver",
+      "url": "https://genius.com/artists/Bon-iver"
+     }
+    ],
+    "artist": "Bon Iver",
+    "lyrics": "25 ContributorsWoods LyricsI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nYou might also likeI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time\nI'm up in the woods\nI'm down on my mind\nI'm building a still\nTo slow down the time11Embed"
+   }
+  }
+ ]
+}
